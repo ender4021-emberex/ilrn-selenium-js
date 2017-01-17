@@ -1,0 +1,15 @@
+{
+    "ilrn72245": {
+        "users": {
+            "instructor": {
+                "username": "an_instructor@cengage.com",
+                "password": "password"
+            },
+            "student": {
+                "username": "a_student@cengage.com",
+                "password": "drowssap"
+            }
+        },
+        "course": "E-YWCK239ENKE5U"
+    }
+}

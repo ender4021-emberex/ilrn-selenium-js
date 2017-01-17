@@ -1,0 +1,29 @@
+{
+  "name": "ilrn-selenium-js",
+  "version": "0.1.0",
+  "description": "Some JS based Selenium scripts to reproduce certain ILRN slips.",
+  "main": "main.js",
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/node": "^7.0.0",
+    "@types/selenium-webdriver": "^2.53.39",
+    "chromedriver": "^2.27.2",
+    "moment": "^2.17.1",
+    "selenium-webdriver": "^3.0.1",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ender4021-emberex/ilrn-selenium-js.git"
+  },
+  "author": "Andrew @ Emberex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ender4021-emberex/ilrn-selenium-js/issues"
+  },
+  "homepage": "https://github.com/ender4021-emberex/ilrn-selenium-js#readme"
+}
